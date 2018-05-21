@@ -1,24 +1,7 @@
-# README
+# About this project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an app that uses Rails in API mode, ActiveAdmin, and React on the frontend. It's based on this [post](https://blog.heroku.com/a-rock-solid-modern-web-stack).
 
-Things you may want to cover:
+I'm sure my React code in here could use some cleanup but I was just excited to give a project like this a try and banged it out exactly to the instructions. I think this model will likely provide a base for an upcoming project I've been thinking about that tracks goal progress using a variety of metrics depending on the type of project.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can see the deployed app [here](https://sheltered-waters-26110.herokuapp.com/) (while I keep the dyno up).
