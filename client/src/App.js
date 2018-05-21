@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   getDrinks () {
-    this.fetch('api/drinks')
+    this.fetch('/api/drinks')
       .then(drinks => {
         if (drinks.length) {
           this.setState({drinks: drinks})
